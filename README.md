@@ -4,8 +4,8 @@ Extension for Syntax Jshell (JavaShell) ```.jsh```
 
 ## Example
 
-![ScreenShot](img/codeJSH.png)
-![ScreenShot](img/terminalJSH.png)
+<img src="https://raw.githubusercontent.com/joshuansu0897/Extension-Jshell-Code/blob/master/img/codeJSH.png">
+<img src="https://raw.githubusercontent.com/joshuansu0897/Extension-Jshell-Code/blob/master/img/terminalJSH.png">
 
 ## Requirements
 
