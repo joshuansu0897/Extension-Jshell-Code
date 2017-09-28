@@ -2,7 +2,7 @@
     "name": "Jshell",
     "displayName": "jsh",
     "description": "Language Support for Jshell (JavaShell)",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "publisher": "joshuansu",
     "engines": {
         "vscode": "^1.16.0"
