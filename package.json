@@ -1,0 +1,26 @@
+{
+    "name": "Jshell",
+    "displayName": "jsh",
+    "description": "Language Support for Jshell (JavaShell)",
+    "version": "0.0.1",
+    "publisher": "joshuansu",
+    "engines": {
+        "vscode": "^1.16.0"
+    },
+    "categories": [
+        "Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "jshell",
+            "aliases": ["jshell", "jshell"],
+            "extensions": [".jsh"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "jshell",
+            "scopeName": "source.java",
+            "path": "./syntaxes/java.tmLanguage"
+        }]
+    }
+}
