@@ -2,7 +2,7 @@
 
 Repository GitHub [Here](https://github.com/joshuansu0897/Extension-Jshell-Code)
 
-Extension for Syntax Jshell (JavaShell) ```.jsh```
+Extension for [JShell (Java Shell)](https://docs.oracle.com/javase/9/jshell/) `.jsh` files support.
 
 ## Example
 
@@ -11,6 +11,6 @@ Extension for Syntax Jshell (JavaShell) ```.jsh```
 
 ## Requirements
 
-You need JDK 9 with Jshell
+You need JDK 9+ with JShell
 
 **Enjoy!**
